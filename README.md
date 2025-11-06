@@ -14,13 +14,6 @@ I focus on building products that bridge **AI**, **cloud infrastructure**, and *
 
 ---
 
-### 🧠 Current Work
-- Developing internal **Salesforce + AWS** automation pipelines at UC Davis IET  
-- Leading product and technical education initiatives for **150+ members** at the AI Student Collective  
-- Building **applied ML solutions** for Veeva Systems QuickVault  
-
----
-
 ### ⚙️ Tech Stack
 **Languages:** Python, TypeScript, JavaScript, C, C++, Java, SQL, Kotlin, Swift  
 **Frameworks:** FastAPI, Next.js, React, Flask, Node.js  
