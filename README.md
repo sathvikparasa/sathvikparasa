@@ -1,4 +1,4 @@
-## Hi, I’m Sathvik Parasa
+## Hey, I'm Sathvik!
 
 - **Computer Science & Engineering @ UC Davis**  
 - **Junior Application Developer @ Information and Educational Technology (IET), UC Davis**  
@@ -8,12 +8,12 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 I’m a software engineer passionate about **applied AI systems**, **agentic workflows**, and **scalable web platforms**.  
 I focus on building products that bridge **AI**, **cloud infrastructure**, and **user experiences**.
 
 ---
 
-### 📫 Connect
+### Connect
 - **LinkedIn:** [linkedin.com/in/sathvikparasa](https://linkedin.com/in/sathvikparasa)  
 - **Email:** saparasa@ucdavis.edu  
