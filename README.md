@@ -4,7 +4,7 @@
 - **Junior Application Developer @ Information and Educational Technology (IET), UC Davis**  
 - **President @ [AI Student Collective](https://aistudentcollective.org)**  
 - **Developer @ [Codelab Davis](https://codelabdavis.com)**  
-- **Previously SWE Intern @ Blackhawk Network (Recipient Experiences Team)**  
+- **Incoming SWE Intern @ Blackhawk Network**  
 
 ---
 
