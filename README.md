@@ -2,8 +2,8 @@
 
 - **Computer Science & Engineering @ UC Davis**  
 - **Junior Application Developer @ Information and Educational Technology (IET), UC Davis**  
-- **President @ [AI Student Collective](https://aistudentcollective.org)**  
-- **Developer @ [Codelab Davis](https://codelabdavis.com)**  
+- **President @ [AI Collective, UC Davis](https://aicdavis.org)**  
+- **Software Developer @ [ASUCD Innovation & Research Lab](https://www.linkedin.com/company/asucd-innovation-research-lab)**  
 - **Previous SWE Intern @ Blackhawk Network**  
 
 ---
